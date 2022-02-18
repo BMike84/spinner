@@ -37,4 +37,3 @@ setTimeout(() => {
   console.log();
 }, 1800);
 
-//test comment for git
